@@ -1,0 +1,30 @@
+{
+  "name": "bot-poc",
+  "version": "1.0.0",
+  "description": "A proof of concept for a Microsoft Teams bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Forster",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "bot",
+    "azure",
+    "microsoft",
+    "teams"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tforster/teams-bot-poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tforster/teams-bot-poc/issues"
+  },
+  "homepage": "https://github.com/tforster/teams-bot-poc#readme"
+}
