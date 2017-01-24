@@ -9,10 +9,9 @@
   "author": "Troy Forster",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.5.3",
+    "botbuilder": "^3.5.4",
     "restify": "^4.3.0"
   },
-  "devDependencies": {},
   "keywords": [
     "bot",
     "azure",
